@@ -35,17 +35,3 @@ def int_to_label(index):
     """Convert integer index back to label."""
     mapping = {0: "positive", 1: "neutral", 2: "negative"}
     return mapping[index]
-
-
-# FinalProject_Submission.ipynb (High-Level Plan)
-# ------------------------------------------
-# 1. Import preprocessing and load data
-# 2. Preprocess and split the dataset
-# 3. Train and test all models
-# 4. Evaluate each with evaluation.py
-# 5. Summarize results and compare models
-# ------------------------------------------
-# This file will include organized markdown and outputs for each model.
-# It will serve as the single .ipynb submitted with modular imports.
-
-# When you're ready, I can now generate FinalProject_Submission.ipynb with all import calls and run sections.
