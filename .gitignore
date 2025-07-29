@@ -1,4 +1,12 @@
+# Ignore Python virtual environment
 venv/
 
+# Ignore macOS system file
+.DS_Store
 
-git rm --cached .DS_Store
+# Ignore Jupyter Notebook metadata
+.ipynb_checkpoints/
+
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
