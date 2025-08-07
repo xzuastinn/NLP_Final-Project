@@ -28,7 +28,6 @@ This will link to all components.
 | Model                          | Features            | Notes                          |
 | ------------------------------ | ------------------- | ------------------------------ |
 | Multinomial Naive Bayes        | Unigram TF-IDF      | Fast baseline                  |
-| Logistic Regression (L2)       | Uni + Bigram TF-IDF | Highest raw accuracy           |
 | Logistic Regression (balanced) | Uni + Bigram TF-IDF | Best macro-F1 & neutral recall |
 | Linear SVM (balanced)          | Unigram TF-IDF      | Similar to LR, robust margins  |
 | MLP (100 hidden, ReLU)         | Unigram TF-IDF      | Non-linear decision boundary   |
