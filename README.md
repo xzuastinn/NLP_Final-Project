@@ -31,7 +31,7 @@ This will link to all components.
 | Logistic Regression (balanced) | Uni + Bigram TF-IDF | Best macro-F1 & neutral recall |
 | Linear SVM (balanced)          | Unigram TF-IDF      | Similar to LR, robust margins  |
 | MLP (100 hidden, ReLU)         | Unigram TF-IDF      | Non-linear decision boundary   |
-| Bi-LSTM (optional extra)       | Token indices       | Captures sequence context      |
+| Bi-LSTM                        | Token indices       | Captures sequence context      |
 
 
 ## 2  Quick-start
