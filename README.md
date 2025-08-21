@@ -1,5 +1,4 @@
 # Sentiment Analysis of TripAdvisor Hotel Reviews  
-_CS 6120 • Summer 2025 • Priyam Bhardwaj & Zachary Coates_
 
 This project applies classic and neural NLP models to classify guest-written TripAdvisor hotel reviews into **positive / neutral / negative** sentiment classes.  
 It reproduces and extends the experiments described in our course proposal.
